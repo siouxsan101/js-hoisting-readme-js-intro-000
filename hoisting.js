@@ -7,6 +7,8 @@ function callMe() {
   return lyric;
 }
 
+thisIsCrazy();
+
      var thisIsCrazy = function(){
        crazy();
         console.log("hey!!!")
